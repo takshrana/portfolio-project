@@ -21,6 +21,12 @@ body {
   font-size: 1.2rem;
 }
 
+.nav__link {
+  text-decoration: none;
+  color: black;
+}
+
+
 .nav__link:not(:last-of-type) {
   margin-right: 2.5rem;
 }

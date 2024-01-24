@@ -9,6 +9,18 @@ projects = [
         "categories": ["python", "web"],
         "slug": "To-do-List",
     },
+    {
+        "name": "Weather app with API and Flask",
+        "thumb": "img/weather.png",
+        "categories": ["flask", "api"],
+        "slug": "WeatherApp",
+    },
+    {
+        "name": "Blog Site with Python and PostgresSQL",
+        "thumb": "img/blog.png",
+        "categories": ["full stack", "python"],
+        "slug": "BlogZilla",
+    },
 ]
 
 
