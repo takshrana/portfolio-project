@@ -4,6 +4,12 @@ app = Flask(__name__)
 
 projects = [
     {
+        "name": "Blog Site with Flask and SQLAlchemy",
+        "thumb": "img/blog.png",
+        "categories": ["full stack", "python"],
+        "slug": "BlogZilla",
+    },
+    {
         "name": "To-Do app with Python and PostgresSQL",
         "thumb": "img/to-do.png",
         "categories": ["python", "web"],
@@ -16,10 +22,10 @@ projects = [
         "slug": "WeatherApp",
     },
     {
-        "name": "Blog Site with Python and PostgresSQL",
-        "thumb": "img/blog.png",
-        "categories": ["full stack", "python"],
-        "slug": "BlogZilla",
+        "name": "Landing Page with HTML, CSS and Bootstrap",
+        "thumb": "img/garage.png",
+        "categories": ["web", "bootstrap"],
+        "slug": "Garage-Website",
     },
 ]
 
